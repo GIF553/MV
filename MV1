@@ -1,4 +1,132 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Cine SKY" tvg-logo="https://imgur.com/Qos1pmG.png" tvg-name="CINE SKY 1" group-title="CANAIS | CINE SKY & 24H",CINE SKY 1
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/686
+#EXTINF:-1 tvg-id="Cine SKY" tvg-logo="https://imgur.com/Qos1pmG.png" tvg-name="CINE SKY 2" group-title="CANAIS | CINE SKY & 24H",CINE SKY 2
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/687
+#EXTINF:-1 tvg-id="Cine SKY" tvg-logo="https://imgur.com/Qos1pmG.png" tvg-name="CINE SKY 3" group-title="CANAIS | CINE SKY & 24H",CINE SKY 3
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/688
+#EXTINF:-1 tvg-id="Cine SKY" tvg-logo="https://imgur.com/Qos1pmG.png" tvg-name="CINE SKY 4" group-title="CANAIS | CINE SKY & 24H",CINE SKY 4
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/689
+#EXTINF:-1 tvg-id="Cine SKY" tvg-logo="https://imgur.com/Qos1pmG.png" tvg-name="CINE SKY 5" group-title="CANAIS | CINE SKY & 24H",CINE SKY 5
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/690
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Qos1pmG.png" tvg-name="CINE SKY 6" group-title="CANAIS | CINE SKY & 24H",CINE SKY 6
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/77381
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Qos1pmG.png" tvg-name="CINE FAROESTE" group-title="CANAIS | CINE SKY & 24H",CINE FAROESTE
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/88962
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Qos1pmG.png" tvg-name="CINE DISNEY" group-title="CANAIS | CINE SKY & 24H",CINE DISNEY
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/88963
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Qos1pmG.png" tvg-name="CINE TRAPALHOES" group-title="CANAIS | CINE SKY & 24H",CINE TRAPALHOES
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/88965
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Qos1pmG.png" tvg-name="CINE SESSÃO DA TARDE" group-title="CANAIS | CINE SKY & 24H",CINE SESSÃO DA TARDE
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/88966
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Qos1pmG.png" tvg-name="CINE MARVEL" group-title="CANAIS | CINE SKY & 24H",CINE MARVEL
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/88967
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="https://imgur.com/AOPvVwx.png" tvg-name="HBO 2 FHD " group-title="CANAIS | HBO",HBO 2 FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/793
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="https://imgur.com/AOPvVwx.png" tvg-name="HBO 2 H265" group-title="CANAIS | HBO",HBO 2 H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/254
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="https://imgur.com/AOPvVwx.png" tvg-name="HBO 2 HD" group-title="CANAIS | HBO",HBO 2 HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/39
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="https://imgur.com/AOPvVwx.png" tvg-name="HBO 2 SD" group-title="CANAIS | HBO",HBO 2 SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/499
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="https://imgur.com/stIdwgi.png" tvg-name="HBO FAMILY FHD " group-title="CANAIS | HBO",HBO FAMILY FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/795
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="https://imgur.com/stIdwgi.png" tvg-name="HBO FAMILY HD" group-title="CANAIS | HBO",HBO FAMILY HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/40
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-logo="https://imgur.com/stIdwgi.png" tvg-name="HBO FAMILY SD" group-title="CANAIS | HBO",HBO FAMILY SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/496
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="https://i.imgur.com/QTbPdG5.png" tvg-name="HBO FHD" group-title="CANAIS | HBO",HBO FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/792
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="https://i.imgur.com/QTbPdG5.png" tvg-name="HBO H265" group-title="CANAIS | HBO",HBO H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/251
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="https://i.imgur.com/QTbPdG5.png" tvg-name="HBO HD" group-title="CANAIS | HBO",HBO HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/41
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="https://i.imgur.com/QTbPdG5.png" tvg-name="HBO SD" group-title="CANAIS | HBO",HBO SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/495
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="https://imgur.com/7mf7Dyx.png" tvg-name="HBO MUNDI FHD " group-title="CANAIS | HBO",HBO MUNDI FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/797
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="https://imgur.com/7mf7Dyx.png" tvg-name="HBO MUNDI H265" group-title="CANAIS | HBO",HBO MUNDI H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/260
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="https://imgur.com/7mf7Dyx.png" tvg-name="HBO MUNDI HD" group-title="CANAIS | HBO",HBO MUNDI HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/48
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="https://i.imgur.com/bmZ8rxt.png" tvg-name="HBO PLUS FHD" group-title="CANAIS | HBO",HBO PLUS FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/794
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="https://i.imgur.com/bmZ8rxt.png" tvg-name="HBO PLUS H265" group-title="CANAIS | HBO",HBO PLUS H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/252
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="https://i.imgur.com/bmZ8rxt.png" tvg-name="HBO PLUS HD" group-title="CANAIS | HBO",HBO PLUS HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/42
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-logo="https://i.imgur.com/bmZ8rxt.png" tvg-name="HBO PLUS SD" group-title="CANAIS | HBO",HBO PLUS SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/497
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-logo="https://imgur.com/0oXzc81.png" tvg-name="HBO POP FHD " group-title="CANAIS | HBO",HBO POP FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/799
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="https://imgur.com/0oXzc81.png" tvg-name="HBO POP H265" group-title="CANAIS | HBO",HBO POP H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/262
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="https://imgur.com/0oXzc81.png" tvg-name="HBO POP HD" group-title="CANAIS | HBO",HBO POP HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/50
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="https://imgur.com/owPPwh1.png" tvg-name="HBO SIGNATURE FHD" group-title="CANAIS | HBO",HBO SIGNATURE FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/796
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="https://imgur.com/owPPwh1.png" tvg-name="HBO SIGNATURE H265 " group-title="CANAIS | HBO",HBO SIGNATURE H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/253
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="https://imgur.com/owPPwh1.png" tvg-name="HBO SIGNATURE HD" group-title="CANAIS | HBO",HBO SIGNATURE HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/43
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-logo="https://imgur.com/owPPwh1.png" tvg-name="HBO SIGNATURE SD" group-title="CANAIS | HBO",HBO SIGNATURE SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/498
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-logo="https://imgur.com/zvcpVnD.png" tvg-name="HBO XTREME FHD" group-title="CANAIS | HBO",HBO XTREME FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/798
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="https://imgur.com/zvcpVnD.png" tvg-name="HBO XTREME FHD H265 :" group-title="CANAIS | HBO",HBO XTREME FHD H265 :
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/261
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="https://imgur.com/zvcpVnD.png" tvg-name="HBO XTREME HD" group-title="CANAIS | HBO",HBO XTREME HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/49
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="https://imgur.com/zvcpVnD.png" tvg-name="HBO XTREME SD" group-title="CANAIS | HBO",HBO XTREME SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/76662
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://imgur.com/Xdl0FU1.png" tvg-name="TELECINE ACTION FHD" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/787
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://imgur.com/Xdl0FU1.png" tvg-name="TELECINE ACTION H265" group-title="CANAIS | TELECINE",TELECINE ACTION H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/289
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://imgur.com/Xdl0FU1.png" tvg-name="TELECINE ACTION HD" group-title="CANAIS | TELECINE",TELECINE ACTION HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/77
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://imgur.com/Xdl0FU1.png" tvg-name="TELECINE ACTION SD" group-title="CANAIS | TELECINE",TELECINE ACTION SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/551
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="https://imgur.com/UI5Z3cf.png" tvg-name="TELECINE CULT FHD " group-title="CANAIS | TELECINE",TELECINE CULT FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/791
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="https://imgur.com/UI5Z3cf.png" tvg-name="TELECINE CULT H265" group-title="CANAIS | TELECINE",TELECINE CULT H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/290
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="https://imgur.com/UI5Z3cf.png" tvg-name="TELECINE CULT HD" group-title="CANAIS | TELECINE",TELECINE CULT HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/78
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="https://imgur.com/UI5Z3cf.png" tvg-name="TELECINE CULT SD" group-title="CANAIS | TELECINE",TELECINE CULT SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/552
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="https://imgur.com/9uzg3hN.png" tvg-name="TELECINE FUN FHD" group-title="CANAIS | TELECINE",TELECINE FUN FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/790
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="https://imgur.com/9uzg3hN.png" tvg-name="TELECINE FUN H265 " group-title="CANAIS | TELECINE",TELECINE FUN H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/291
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="https://imgur.com/9uzg3hN.png" tvg-name="TELECINE FUN HD" group-title="CANAIS | TELECINE",TELECINE FUN HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/79
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="https://imgur.com/9uzg3hN.png" tvg-name="TELECINE FUN SD" group-title="CANAIS | TELECINE",TELECINE FUN SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/553
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://imgur.com/uLUN3d9.png" tvg-name="TELECINE PIPOCA FHD " group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/789
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://imgur.com/uLUN3d9.png" tvg-name="TELECINE PIPOCA H265" group-title="CANAIS | TELECINE",TELECINE PIPOCA H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/292
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://imgur.com/uLUN3d9.png" tvg-name="TELECINE PIPOCA HD" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/80
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://imgur.com/uLUN3d9.png" tvg-name="TELECINE PIPOCA SD" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/554
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://imgur.com/VjdttBW.png" tvg-name="TELECINE PREMIUM FHD" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/786
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://imgur.com/VjdttBW.png" tvg-name="TELECINE PREMIUM H265" group-title="CANAIS | TELECINE",TELECINE PREMIUM H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/293
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://imgur.com/VjdttBW.png" tvg-name="TELECINE PREMIUM HD" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/81
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://imgur.com/VjdttBW.png" tvg-name="TELECINE PREMIUM SD" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/555
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://imgur.com/f5TPZe4.png" tvg-name="TELECINE TOUCH FHD " group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/788
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://imgur.com/f5TPZe4.png" tvg-name="TELECINE TOUCH H265" group-title="CANAIS | TELECINE",TELECINE TOUCH H265
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/294
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://imgur.com/f5TPZe4.png" tvg-name="TELECINE TOUCH HD" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/82
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="https://imgur.com/f5TPZe4.png" tvg-name="TELECINE TOUCH SD" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
+http://blacktv.syscdn.xyz:80/1596092623/5744181400/556
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jM9HhujEVbKAG0gaUXVzuCinrLC.jpg" tvg-name="Uma Chance para Vencer (2022)" group-title="RECÉM CHEGADOS",Uma Chance para Vencer (2022)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91217.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1dJuX3YlWxfK54r6GbTaxoEwgGA.jpg" tvg-name="Desvio de Conduta (2021)" group-title="RECÉM CHEGADOS",Desvio de Conduta (2021)
@@ -327,10 +455,6 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91833.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91872.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qqOtwhj8DxOBIwI0u6ThooXEIBR.jpg" tvg-name="A Bruxa (2015)" group-title="RECÉM CHEGADOS",A Bruxa (2015)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91962.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cah6iIYQBctvCmBjsKGb1NCiygr.jpg" tvg-name="A Bruxa - Parte 2: A Colisão  - LEG (2022)" group-title="RECÉM CHEGADOS",A Bruxa - Parte 2: A Colisão  - LEG (2022)
-http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91963.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7RCLciIv2T9cXhliA0dHyi5EJsT.jpg" tvg-name="A Bruxa - Parte 1: A Subversão - LEG (2018)" group-title="RECÉM CHEGADOS",A Bruxa - Parte 1: A Subversão - LEG (2018)
-http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91966.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uPaaVN3E7uL46nt7jDQFBLt7MZF.jpg" tvg-name="Perigo no Recife (2022)" group-title="RECÉM CHEGADOS",Perigo no Recife (2022)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/92072.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7qx5Li3YtX3PkiHO7kN5f6MYnb.jpg" tvg-name="Amaldiçoados pelo Demônio (2008)" group-title="RECÉM CHEGADOS",Amaldiçoados pelo Demônio (2008)
@@ -507,6 +631,24 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96346.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96406.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fxP5upLdioZUCMrSDXl0QjalVMx.jpg" tvg-name="Por um Fio (2003)" group-title="RECÉM CHEGADOS",Por um Fio (2003)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96415.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7RCLciIv2T9cXhliA0dHyi5EJsT.jpg" tvg-name="A Bruxa - Parte 1: A Subversão (2018)" group-title="RECÉM CHEGADOS",A Bruxa - Parte 1: A Subversão (2018)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96418.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/az3rk3vp1DmhM3KmpPNfDWW6mhN.jpg" tvg-name="A Fúria (2019)" group-title="RECÉM CHEGADOS",A Fúria (2019)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96529.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yzhhMRxXimA3ODrDI18an61tcIy.jpg" tvg-name="Frankenstein: Entre Anjos e Demônios (2014)" group-title="RECÉM CHEGADOS",Frankenstein: Entre Anjos e Demônios (2014)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96530.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xIPi3A1GUjecPL5FhI2k19lMDGx.jpg" tvg-name="Frankenstein (2015)" group-title="RECÉM CHEGADOS",Frankenstein (2015)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96531.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hNt4H6rAIwj3b8SKEK1AshbFDt4.jpg" tvg-name="Piranha 1 (1978)" group-title="RECÉM CHEGADOS",Piranha 1 (1978)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96532.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tXWrCprpoIsGTX3zrd10qqc8CLi.jpg" tvg-name="Piranha 2 (2012)" group-title="RECÉM CHEGADOS",Piranha 2 (2012)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96533.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e0fZ9F42ZOjkScgdQl2bBCJ1hb0.jpg" tvg-name="Piranha 3D (2010)" group-title="RECÉM CHEGADOS",Piranha 3D (2010)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96534.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yaITG8ywIpWqSNpPMWrVU7Fsh2d.jpg" tvg-name="Piranhas 2: Assassinas Voadoras (1982)" group-title="RECÉM CHEGADOS",Piranhas 2: Assassinas Voadoras (1982)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96535.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hAUUVBGprFQXaHuhOFDMKELkH4W.jpg" tvg-name="Destruição Final: O Último Refúgio (2020)" group-title="RECÉM CHEGADOS",Destruição Final: O Último Refúgio (2020)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96565.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rozwpOPiTEYnXygWGvUPST4lVQa.jpg" tvg-name="Bob Esponja Calça Quadrada apresenta: Zona das Marés (2023)" group-title="LANÇAMENTOS - 2023",Bob Esponja Calça Quadrada apresenta: Zona das Marés (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91218.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8acQ699CU6hNzH3Quxc6C2CaD6.jpg" tvg-name="Cabaré Eldorado: O Alvo dos Nazistas (2023)" group-title="LANÇAMENTOS - 2023",Cabaré Eldorado: O Alvo dos Nazistas (2023)
@@ -1471,8 +1613,6 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/95594.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/95595.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rHS23wVWUrLwKu8Fu6oLH5uQJTO.jpg" tvg-name="O Jogo do Disfarce (2023)" group-title="LANÇAMENTOS - 2023",O Jogo do Disfarce (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/95598.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gmtrDKIKXRFkChgHGALZTiKDVo0.jpg" tvg-name="As Marvels - LEGENDADO (2023)" group-title="LANÇAMENTOS - 2023",As Marvels - LEGENDADO (2023)
-http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/95841.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/o2V29kR9G2GmwqhOivgva8yWRBC.jpg" tvg-name="Leopoldina - A Imperatriz do Brasil (2023)" group-title="LANÇAMENTOS - 2023",Leopoldina - A Imperatriz do Brasil (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/95842.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rReJxeXTh6rbVCrPN4i5CNDyyCv.jpg" tvg-name="Com as Próprias Mãos (2023)" group-title="LANÇAMENTOS - 2023",Com as Próprias Mãos (2023)
@@ -1531,6 +1671,46 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96408.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96412.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/woL8DLY4NLJCg8qKiSrOF4QfMkz.jpg" tvg-name="Um Homem Implacável (2023)" group-title="LANÇAMENTOS - 2023",Um Homem Implacável (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96413.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hZGyYkniGFfpf4WnO3hhscvr8du.jpg" tvg-name="Assassinato do Bolo de Cenoura: Um Mistério de Hannah Swensen (2023)" group-title="LANÇAMENTOS - 2023",Assassinato do Bolo de Cenoura: Um Mistério de Hannah Swensen (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96419.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nY5v3pTXZjms3m1ZrUMlt3teL7X.jpg" tvg-name="O Sequestro do Voo 375 (2023)" group-title="LANÇAMENTOS - 2023",O Sequestro do Voo 375 (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96420.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uzML477yx9CAwg5UqkRqobz0TrJ.jpg" tvg-name="O Nômade (2023)" group-title="LANÇAMENTOS - 2023",O Nômade (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96421.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jg4CY534dp8slT4D9KjBKuLhkDh.jpg" tvg-name="Vida Dupla (2023)" group-title="LANÇAMENTOS - 2023",Vida Dupla (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96422.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4mNFzHWQgMbonqSFhEtzbpnumFW.jpg" tvg-name="As Marvels (2023)" group-title="LANÇAMENTOS - 2023",As Marvels (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96423.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bgtyyIzmu01ALSl0MRZuJMdbasf.jpg" tvg-name="Pesadelos Reais (2023)" group-title="LANÇAMENTOS - 2023",Pesadelos Reais (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96424.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jd6eKnyS7OqLFUWRuSO2jJJROcd.jpg" tvg-name="Tá Escrito (2023)" group-title="LANÇAMENTOS - 2023",Tá Escrito (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96425.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8g1or9dR9KYRJy0lFXQpZ0kAqtC.jpg" tvg-name="Não Tem Volta (2023)" group-title="LANÇAMENTOS - 2023",Não Tem Volta (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96426.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zXiqgwerUrAtIzVL9OyRcG90oTh.jpg" tvg-name="A Rainha Guerreira (2023)" group-title="LANÇAMENTOS - 2023",A Rainha Guerreira (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96427.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vewc24PINgGkyTfvWP1MyAhPjLX.jpg" tvg-name="Escondido no Acampamento (2023)" group-title="LANÇAMENTOS - 2023",Escondido no Acampamento (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96428.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l3pI4Nbe9vRC2cd7WsHtiMGZW0T.jpg" tvg-name="Dinheiro Fácil (2023)" group-title="LANÇAMENTOS - 2023",Dinheiro Fácil (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96429.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jmvjmR50c3vIegMbfoEoNns84lM.jpg" tvg-name="Até Marte por Amor (2023)" group-title="LANÇAMENTOS - 2023",Até Marte por Amor (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96448.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg" tvg-name="Ficção Americana (2023)" group-title="LANÇAMENTOS - 2023",Ficção Americana (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96449.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7UzrLLNAAU1JdBJdrqtC0CuSc8E.jpg" tvg-name="O Senhor do Caos (2023)" group-title="LANÇAMENTOS - 2023",O Senhor do Caos (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96527.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pTUmZO6ApTUaHLY75WKkR2bSx69.jpg" tvg-name="Eu Voltarei (2023)" group-title="LANÇAMENTOS - 2023",Eu Voltarei (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96537.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k0TjTcPfifQXjpTbE7cueD4XFas.jpg" tvg-name="Tripped Up (2023)" group-title="LANÇAMENTOS - 2023",Tripped Up (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96538.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nAZn5jNqEUpBY9oUSQ9I2tekUVj.jpg" tvg-name="O Abismo (2023)" group-title="LANÇAMENTOS - 2023",O Abismo (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96539.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1800CbGziGtISRgmYCr62sFTSOf.jpg" tvg-name="Um Pouco de Mim, um Pouco de Nós (2023)" group-title="LANÇAMENTOS - 2023",Um Pouco de Mim, um Pouco de Nós (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96540.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cbm0FPGhukTfqIJOZkbu2gdCZK8.jpg" tvg-name="A Cor Púrpura (2023)" group-title="LANÇAMENTOS - 2023",A Cor Púrpura (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96542.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/apAIqBHMqjKlId60cj7V32bZIS3.jpg" tvg-name="Patos! (2023)" group-title="LANÇAMENTOS - 2023",Patos! (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96816.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m7LufNqf6zrz9u112fNcn19Zr8W.jpg" tvg-name="Alguém Que Eu Costumava Conhecer (2023)" group-title="LANÇAMENTOS - 2023",Alguém Que Eu Costumava Conhecer (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/85856.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/byF0OTIt67FXCqan5bjPgF1v0Hi.jpg" tvg-name="Kandasamys: O Bebê (2023)" group-title="LANÇAMENTOS - 2023",Kandasamys: O Bebê (2023)
@@ -2785,7 +2965,7 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/94176.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/94312.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2KPvdtGjeFT8IwxUkUWmifokXG0.jpg" tvg-name="Patos!  - CINEMA (2023)" group-title="FILMES CINEMA (Q-INF)",Patos!  - CINEMA (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/94571.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg" tvg-name="Mamonas Assassinas: O Filme - CINEMA (2023)" group-title="FILMES CINEMA (Q-INF)",Mamonas Assassinas: O Filme - CINEMA (2023)
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg" tvg-name="Mamonas Assassinas: O Filme - CINEMA (2024)" group-title="FILMES CINEMA (Q-INF)",Mamonas Assassinas: O Filme - CINEMA (2024)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/95847.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8D3lObq5pv7lH0o5tny908SldKf.jpg" tvg-name="Gaslight - CINEMA (2023)" group-title="FILMES CINEMA (Q-INF)",Gaslight - CINEMA (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96401.mp4
@@ -2797,6 +2977,8 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96403.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96404.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r0ZdAsJIPC7Ka9A7zrmKkKh6yjC.jpg" tvg-name="O Punho do Condor - CINEMA (2023)" group-title="FILMES CINEMA (Q-INF)",O Punho do Condor - CINEMA (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96405.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kdIneF9itLJcTQEBBnxQ9gx00MM.jpg" tvg-name="Argylle: O Superespião - CINEMA (2024)" group-title="FILMES CINEMA (Q-INF)",Argylle: O Superespião - CINEMA (2024)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96417.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n2HcaD1dEVrwXlSFJD7GmcqHSxv.jpg" tvg-name="Fale Comigo - LEG (2023)" group-title="FILMES LEGENDADOS",Fale Comigo - LEG (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91280.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2oVEdOpE6CYJmF1hNnIfMwuBHPx.jpg" tvg-name="A Pequena Sereia - LEG (2023)" group-title="FILMES LEGENDADOS",A Pequena Sereia - LEG (2023)
@@ -2957,6 +3139,10 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91713.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91776.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2BWhcrlPr6UvSJy5D044Ikq2QxH.jpg" tvg-name="Som da Liberdade - Leg (2023)" group-title="FILMES LEGENDADOS",Som da Liberdade - Leg (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91837.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cah6iIYQBctvCmBjsKGb1NCiygr.jpg" tvg-name="A Bruxa - Parte 2: A Colisão  - LEG (2022)" group-title="FILMES LEGENDADOS",A Bruxa - Parte 2: A Colisão  - LEG (2022)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91963.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7RCLciIv2T9cXhliA0dHyi5EJsT.jpg" tvg-name="A Bruxa - Parte 1: A Subversão - LEG (2018)" group-title="FILMES LEGENDADOS",A Bruxa - Parte 1: A Subversão - LEG (2018)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91966.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1eKWqTHp4OgKdx1QX1O9LxKHr1M.jpg" tvg-name="Mortal Kombat Legends: Cage - Bom de Briga - LEG (2023)" group-title="FILMES LEGENDADOS",Mortal Kombat Legends: Cage - Bom de Briga - LEG (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/92192.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg" tvg-name="Jogos Mortais X - LEG (2023)" group-title="FILMES LEGENDADOS",Jogos Mortais X - LEG (2023)
@@ -2965,6 +3151,8 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/92196.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/92602.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c0DCmfC7Et2K3URnIJ4ahJpeXR2.jpg" tvg-name="Oppenheimer - LEG (2023)" group-title="FILMES LEGENDADOS",Oppenheimer - LEG (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/92722.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gmtrDKIKXRFkChgHGALZTiKDVo0.jpg" tvg-name="As Marvels - LEGENDADO (2023)" group-title="FILMES LEGENDADOS",As Marvels - LEGENDADO (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/95841.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/84ispMxgLDRvQaA6zlM9i7sdAAI.jpg" tvg-name="Aquaman 2: O Reino Perdido - LEG (2023)" group-title="FILMES LEGENDADOS",Aquaman 2: O Reino Perdido - LEG (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/95899.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t8bt9rrcgK4K1G5VxeO8xkz9RQD.jpg" tvg-name="Barbie: Skipper e a Grande Aventura de Babás (2023)" group-title="FILMES ANIMAÇÃO E INFANTIL",Barbie: Skipper e a Grande Aventura de Babás (2023)
@@ -4157,6 +4345,8 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/92183.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/93966.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kNbTwTn0YLm03XrCMa2XUgcyKm8.jpg" tvg-name="Mogli: O Menino Lobo (2016)" group-title="FILMES ANIMAÇÃO E INFANTIL",Mogli: O Menino Lobo (2016)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/93984.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A9zJyQvF8yXC5HPTMB24hMeQFq1.jpg" tvg-name="Dennis, o Pimentinha (1993)" group-title="FILMES ANIMAÇÃO E INFANTIL",Dennis, o Pimentinha (1993)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96416.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gC7l3ZMtwYpVzf200MXrTcO7hjP.jpg" tvg-name="Prisão 77 (2022)" group-title="LANÇAMENTOS - 2022",Prisão 77 (2022)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/90815.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e2DiRIkVUURXD40JxcrO1D1i8Og.jpg" tvg-name="A Sorte Grande (2022)" group-title="LANÇAMENTOS - 2022",A Sorte Grande (2022)
@@ -5473,6 +5663,12 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91809.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/92073.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8MugCY7WP3eXTIWM574ncrr8WKr.jpg" tvg-name="Chic Show (2023)" group-title="FILMES DOCUMENTARIOS",Chic Show (2023)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/92080.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7WwyrCZORz8qR2iizhUEZx5iZDu.jpg" tvg-name="8/1 – A Democracia Resiste (2024)" group-title="FILMES DOCUMENTARIOS",8/1 – A Democracia Resiste (2024)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96410.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dOXeCTo6dNroXJ8UU9FttzLpXpB.jpg" tvg-name="Polaris (2023)" group-title="FILMES DOCUMENTARIOS",Polaris (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96430.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k92rpuDXYxdy4c4LHMNNhU12lov.jpg" tvg-name="The Space Race (2023)" group-title="FILMES DOCUMENTARIOS",The Space Race (2023)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96526.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h9CvMhUhDbr8D58qZFP6JOJWh9I.jpg" tvg-name="O Que Te Faz Mais Forte (2017)" group-title="FILMES DRAMA",O Que Te Faz Mais Forte (2017)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/91206.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkQT9cSSis5q40Ezj58v1k2Lfn_llWmCe7djfVDiyyTPxHIttt" tvg-name="#Alive" group-title="FILMES DRAMA",#Alive
@@ -5767,7 +5963,7 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/11802.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/11809.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://ccdnblck.xyz:80/images/33690be344d1903397004aefa2ad837d.jpg" tvg-name="Börü: Esquadrão Lobo - O Filme (2018)" group-title="FILMES DRAMA",Börü: Esquadrão Lobo - O Filme (2018)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/12507.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://ccdnblck.xyz:80/images/be460600f7a0c044a72a31d1880425cb.jpg" tvg-name="Cadillac Records (2008)" group-title="FILMES DRAMA",Cadillac Records (2008)
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8PqNPf57ojfh4zvOp3HjodogOKn.jpg" tvg-name="Cadillac Records (2008)" group-title="FILMES DRAMA",Cadillac Records (2008)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/11820.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://ccdnblck.xyz:80/images/363423d585cc9e7791d1ab77318bf62a.jpg" tvg-name="Cafarnaum (2018)" group-title="FILMES DRAMA",Cafarnaum (2018)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/11825.mp4
@@ -11175,8 +11371,6 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/12238.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/12239.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://ccdnblck.xyz:80/images/e2dadfc959c1dc2ea3ed6cce0953333f.jpg" tvg-name="Desejo Inconcebível (2017)" group-title="FILMES AÇÃO",Desejo Inconcebível (2017)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/12236.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://ccdnblck.xyz:80/images/117a523cff6d43d7f6360575e8a70a38.jpg" tvg-name="Destruição Final: O Último Refúgio (2020)" group-title="FILMES AÇÃO",Destruição Final: O Último Refúgio (2020)
-http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/12249.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://ccdnblck.xyz:80/images/4e2c3ee0bc8bb99338b0bf35db128267.jpg" tvg-name="Destruição: Los Angeles (2017)" group-title="FILMES AÇÃO",Destruição: Los Angeles (2017)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/12248.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://ccdnblck.xyz:80/images/45adb88f364170eeb13604cbddc49796.jpg" tvg-name="Detenção (2010)" group-title="FILMES AÇÃO",Detenção (2010)
@@ -15815,9 +16009,25 @@ http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96343.mp4
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96354.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u30bSp5Vc04wMkehvZJQJo35RC0.jpg" tvg-name="Orion e o Escuro (2024)" group-title="LANÇAMENTOS - 2024",Orion e o Escuro (2024)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96409.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7WwyrCZORz8qR2iizhUEZx5iZDu.jpg" tvg-name="8/1 – A Democracia Resiste (2024)" group-title="LANÇAMENTOS - 2024",8/1 – A Democracia Resiste (2024)
-http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96410.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cmmXToVLRW6jCcUoacf5kRB4Qru.jpg" tvg-name="Monstros: A Maldição do Dragão (2024)" group-title="LANÇAMENTOS - 2024",Monstros: A Maldição do Dragão (2024)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96411.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cCGFvoxzaBbYM3I68s6F939fybN.jpg" tvg-name="Beekeeper - Rede de Vingança (2024)" group-title="LANÇAMENTOS - 2024",Beekeeper - Rede de Vingança (2024)
 http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96414.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" tvg-name="Suncoast (2024)" group-title="LANÇAMENTOS - 2024",Suncoast (2024)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96444.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg" tvg-name="Mamonas Assassinas: O Filme (2024)" group-title="LANÇAMENTOS - 2024",Mamonas Assassinas: O Filme (2024)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96445.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ufFrD3NgeFZdNlORyOgXkjCyeJA.jpg" tvg-name="Indiferença (2024)" group-title="LANÇAMENTOS - 2024",Indiferença (2024)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96446.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/44BquVRWlRN3B3Xh6yZxNxFdTER.jpg" tvg-name="Cinzas (2024)" group-title="LANÇAMENTOS - 2024",Cinzas (2024)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96447.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2bHicVzkma4q022cxQeNq2zTwbo.jpg" tvg-name="Me Mate, Querido (2024)" group-title="LANÇAMENTOS - 2024",Me Mate, Querido (2024)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96528.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6dwcPO0s16ku9EjYVgnfSLGoNVB.jpg" tvg-name="Snoopy Apresenta: Seja Bem-vindo, Franklin! (2024)" group-title="LANÇAMENTOS - 2024",Snoopy Apresenta: Seja Bem-vindo, Franklin! (2024)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96536.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3GsgIMVv9pnp3hUayihXEgCSEog.jpg" tvg-name="Agência do Amor (2024)" group-title="LANÇAMENTOS - 2024",Agência do Amor (2024)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96541.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/r43jx9Km2ONGa8sFuzXFWM3iDhp.jpg" tvg-name="Jogos de Amor (2024)" group-title="LANÇAMENTOS - 2024",Jogos de Amor (2024)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96543.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pGEB1qR73d8XNhnHCXqnkuMokIk.jpg" tvg-name="Einstein e a Bomba (2024)" group-title="LANÇAMENTOS - 2024",Einstein e a Bomba (2024)
+http://blacktv.syscdn.xyz:80/movie/1596092623/5744181400/96544.mp4
