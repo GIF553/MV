@@ -3504,12 +3504,13 @@ Adventure, Fantasy, Mystery, Family </genre>
 </item>
 
 <item>
-<title>[B]TITULO DO FILME[/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=9fIObnIGMlI</link>
-<thumbnail>THUMBNAILDOFILME</thumbnail>
-<fanart>FANARTOFILME</fanart>
-<info>TEXTODESINOPSE.</info>
-<genre>GENERO</genre>
+<title>[B]Harry Potter e a Câmara Secreta (2002)[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9fIObnIGMlI$nome=Trailer</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FFB78DA800042E42F8E2163430DFA9F75717A2EC$nome=Filme</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg</thumbnail>
+<fanart>https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/1stUIsjawROZxjiCMtqqXqgfZWC.jpg</fanart>
+<info>Carros voadores, árvores que lutam e um misterioso elfo, com um aviso ainda mais misterioso. Harry Potter está pronto para dar início ao segundo ano de sua maravilhosa jornada no mundo da bruxaria. Em Hogwarts nesse ano, aranhas falam, cartas dão broncas e a habilidade de Harry para falar com cobras voltará contra ele. De clubes de duelo a jogadores de quadribol desonestos, esse será um ano de aventura e perigo para todos. Quando a mensagem sangrenta na parede anuncia que a Câmara Secreta foi aberta, Harry, Rony e Hermione percebem que para salvar Hogwarts será preciso muita mágica e coragem. Confira essa enfeitiçante adaptação do segundo livro da obra da escritora J.K. Rowling e prepare-se para ficar petrificado quando Harry Potter demonstrar que, mais que um bruxo, é um verdadeiro herói.</info>
+<genre> Aventura, Fantasia </genre>
 </item>
 
 
