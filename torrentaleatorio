@@ -3503,5 +3503,16 @@ Adventure, Fantasy, Mystery, Family </genre>
 <genre>GENERO</genre>
 </item>
 
+<item>
+<title>[B]TITULO DO FILME[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9fIObnIGMlI</link>
+<thumbnail>THUMBNAILDOFILME</thumbnail>
+<fanart>FANARTOFILME</fanart>
+<info>TEXTODESINOPSE.</info>
+<genre>GENERO</genre>
+</item>
+
+
+
  
  </items>
