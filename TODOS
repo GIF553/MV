@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+  
+
+
+<channel>
+<name>[B][COLOR springgreen]SERVIDOR 1 FILMES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
+<fanart>https://images8.alphacoders.com/134/thumb-1920-1343629.png</fanart>
+<info>[COLOR blue]*[COLOR blue]OS MELHORES FILMES DO STREAMING E DO CINEMA![/COLOR]</info>
+<externallink>https://bit.ly/3zA0uqX</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR springgreen]SERVIDOR 2 FILMES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
+<fanart>https://images2.alphacoders.com/133/thumb-1920-1331125.jpeg</fanart>
+<info>[COLOR blue]*[COLOR blue]OS MELHORES FILMES DO STREAMING E DO CINEMA![/COLOR]</info>
+<externallink>https://0.0.0.0</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR springgreen]SERVIDOR 3 FILMES [/COLOR][/B] [B][COLOR orangered]TORRENT[/COLOR][/B] [B][COLOR springgreen]ATUALIZADO[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
+<fanart>https://images3.alphacoders.com/134/thumb-1920-1347065.jpeg</fanart>
+<info>[COLOR blue]*[COLOR blue]OS MELHORES FILMES DO STREAMING E DO CINEMA![/COLOR]</info>
+<externallink>https://0.0.0.02</externallink>
+</channel>
+
+
+
+
+</channels>
