@@ -32,7 +32,7 @@
 <thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
 <fanart>https://images2.alphacoders.com/133/thumb-1920-1331125.jpeg</fanart>
 <info>[COLOR white]*[COLOR blue]OS MELHORES FILMES DO STREAMING E DO CINEMA![/COLOR]</info>
-<externallink>http://voxp2p.live:80/enigma2.php?username=007445&password=fu@sionp2@&type=get_vod_categories</externallink>
+<externallink>http://voxp2p.live:80/get.php?username=007445&password=fu@sionp2@&type=get_vod_categories</externallink>
 </channel>
 
 
