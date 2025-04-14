@@ -20,22 +20,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR springgreen]SERVIDOR TESTE[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
-<fanart>https://images2.alphacoders.com/133/thumb-1920-1331125.jpeg</fanart>
-<info>[COLOR white]*[COLOR blue]OS MELHORES FILMES DO STREAMING E DO CINEMA![/COLOR]</info>
-<externallink>http://voxp2p.live:80/enigma2.php?username=007445&password=fu@sionp2@&type=get_vod_categories</externallink>
-</channel>
-
-#channel>
-#<name>[B][COLOR springgreen]SERVIDOR 3 FILMES [/COLOR][/B]</name>
-#<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
-#<fanart>https://images3.alphacoders.com/134/thumb-1920-1347065.jpeg</fanart>
-#<info>[COLOR white]*[COLOR blue]OS MELHORES FILMES DO STREAMING E DO CINEMA![/COLOR]</info>
-#<externallink>https://bit.ly/4eK40PO</externallink>
-#/channel>
-
-<channel>
 <name>[B][COLOR springgreen]SERVIDOR 3 FILMES [/COLOR][/B] [B][COLOR orangered]TORRENT[/COLOR][/B] [B][COLOR springgreen][/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
 <fanart>https://images2.alphacoders.com/132/1329227.jpeg</fanart>
@@ -43,6 +27,13 @@
 <externallink>https://bit.ly/3WcfIeO</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR springgreen]SERVIDOR TESTE[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/WLIuKre.jpg</thumbnail>
+<fanart>https://images2.alphacoders.com/133/thumb-1920-1331125.jpeg</fanart>
+<info>[COLOR white]*[COLOR blue]OS MELHORES FILMES DO STREAMING E DO CINEMA![/COLOR]</info>
+<externallink>http://voxp2p.live:80/enigma2.php?username=007445&password=fu@sionp2@&type=get_vod_categories</externallink>
+</channel>
 
 
 
